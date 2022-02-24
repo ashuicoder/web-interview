@@ -7,20 +7,24 @@
     <title>测试代码</title>
 
     <style>
-      * {
-        padding: 0;
-        margin: 0;
-        box-sizing: border-box;
-      }
       .box {
-        width: 0px;
-        height: 0px;
-        border: 100px solid;
-        border-color: transparent transparent rgba(134, 241, 143, 1) transparent;
+        display: grid;
+        height: 400px;
+        grid-template-columns: 200px 1fr;
+      }
+      .left {
+        background-color: red;
+      }
+
+      .right {
+        background-color: green;
       }
     </style>
   </head>
   <body>
-    <div class="box">111</div>
+    <div class="box">
+      <div class="left">左边固定</div>
+      <div class="right">右边自适应</div>
+    </div>
   </body>
 </html>

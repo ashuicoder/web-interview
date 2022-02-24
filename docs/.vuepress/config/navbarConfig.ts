@@ -1,7 +1,7 @@
 const navbarConfig = [
   {
     text: 'HTML5',
-    link: '/html'
+    link: '/html/1.md'
   },
   {
     text: 'CSS',
