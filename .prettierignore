@@ -3,4 +3,9 @@
 **/*.svg
 **/*.sh
 
+
+.temp/**
+.cache/**
+
+
 /public/*
