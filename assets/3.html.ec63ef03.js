@@ -1,0 +1,7 @@
+import{f as n}from"./app.5908c0c0.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const a={},p=n(`<p>\u5229\u7528<code>border-color: transparent</code></p><div class="language-css ext-css line-numbers-mode"><pre class="language-css"><code><span class="token selector">.triangle</span> <span class="token punctuation">{</span>
+  <span class="token property">width</span><span class="token punctuation">:</span> 0px<span class="token punctuation">;</span>
+  <span class="token property">height</span><span class="token punctuation">:</span> 0px<span class="token punctuation">;</span>
+  <span class="token property">border</span><span class="token punctuation">:</span> 100px solid<span class="token punctuation">;</span>
+  <span class="token property">border-color</span><span class="token punctuation">:</span> transparent transparent <span class="token function">rgba</span><span class="token punctuation">(</span>134<span class="token punctuation">,</span> 241<span class="token punctuation">,</span> 143<span class="token punctuation">,</span> 1<span class="token punctuation">)</span> transparent<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br></div></div>`,2);function t(e,c){return p}var l=s(a,[["render",t]]);export{l as default};
