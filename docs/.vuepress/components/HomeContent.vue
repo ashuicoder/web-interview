@@ -2,7 +2,7 @@
   <div>
     <img :src="$withBase('/svg/home.svg')" alt="" srcset="" />
     <p class="tip">
-      不管生活多么的艰难，我们依然要满怀希望、健康乐观地活着、努力着。
+      不管生活多么的艰难，我们依然要满怀希望、健康乐观地活着、努力着。111
     </p>
 
     <div class="btn-box">
