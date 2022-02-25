@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vuepress dev docs",
     "build": "vuepress build docs",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
     "core-js": "^3.6.5",
