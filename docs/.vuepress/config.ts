@@ -13,6 +13,7 @@ const config = defineUserConfig<DefaultThemeOptions>({
   title: '阿水前端面试题库',
   description: '一个前端面试题库',
   head: [['link', { rel: 'icon', href: 'https://vuejs.org/images/logo.png' }]],
+  base: '/web-interview/',
   // 主题和它的配置
   theme: '@vuepress/theme-default',
   themeConfig: {
