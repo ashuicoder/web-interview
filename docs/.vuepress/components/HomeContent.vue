@@ -18,7 +18,7 @@ export default defineComponent({
   setup() {
     const router = useRouter()
     const jumptoHtml = () => {
-      router.push('/html')
+      router.push('/html/1.md')
     }
 
     return {
